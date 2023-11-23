@@ -6,7 +6,7 @@ import Header from './header'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Saudi Face',
+  title: 'BeSaudi.ai',
   description: 'AI Art Generator',
 }
 
